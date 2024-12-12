@@ -20,6 +20,6 @@ python3 evolution.py
 ```
 
 ### customization
-* edit `get_evaluation_function`, `evaluation` and `get_subtask_list` in `evolution.py` for ur own dataset and task.
+* edit `get_evaluation_function`, `evaluation` and `get_subtask_list` in `evolution.py` for ur own dataset and task (ceval, cmmlu and mmlu are supported defaultly).
 * edit `get_inner_map.py` for ur own strategy of mapping from source modules to target modules. For heterogeneous sources, customize `get_weight_map` in `evolution.py` as well.
 * edit `init_for_evo`, `evolve_pipeline` and `produce_individuals` in `evolution.py` for ur own evolution strategy.
