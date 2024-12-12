@@ -1,0 +1,15 @@
+checkpoints/*
+eval_res/*
+evo_res/*
+inner_map/*
+checkpoint_list/*
+__pycache__
+log.txt
+*.rpm
+
+auto_occupy/*
+occupy.sh
+unoccupy.sh
+hostfile
+env.txt
+*.hosts

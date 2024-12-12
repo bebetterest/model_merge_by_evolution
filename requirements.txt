@@ -1,0 +1,14 @@
+accelerate==0.30.0
+bitsandbytes==0.37.1
+datasets==2.19.1
+deap==1.4.1
+huggingface_hub==0.23.0
+numpy==1.20.3
+pandas==2.0.0
+peft==0.10.0
+safetensors==0.4.3
+sentencepiece==0.1.97
+torch==2.0.0
+tqdm==4.62.3
+transformers==4.33.3
+xformers==0.0.19
